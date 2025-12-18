@@ -9,7 +9,7 @@ def main():
     parser.add_argument(
         "-i", "--image",
         required=True,
-        help="Path to FAT32 image"
+        help="Path to fat32_tool image"
     )
 
     parser.add_argument(
